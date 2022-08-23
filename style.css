@@ -1,0 +1,12 @@
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+.navitem {
+    float: left;
+    display: block;
+    padding: 8px;
+}
