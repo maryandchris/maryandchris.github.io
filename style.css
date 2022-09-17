@@ -1,3 +1,16 @@
+* {
+	font-family: default;
+}
+
+.display-1 {
+	font-size: 100px;
+	font-family: 'Bungee Shade';
+}
+
+.header {
+	float: left;
+}
+
 .nav {
   list-style-type: none;
   margin: 0;
@@ -9,4 +22,15 @@
     float: left;
     display: block;
     padding: 8px;
+}
+
+.headerpicture {
+	width: 50%;
+	float: right;
+}
+
+.container {
+	float: left;
+	clear: left;
+	background-color: yellow;
 }
