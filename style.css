@@ -7,10 +7,6 @@
 	font-family: 'Bungee Shade';
 }
 
-.header {
-	float: left;
-}
-
 .nav {
   list-style-type: none;
   margin: 0;
@@ -24,13 +20,3 @@
     padding: 8px;
 }
 
-.headerpicture {
-	width: 50%;
-	float: right;
-}
-
-.container {
-	float: left;
-	clear: left;
-	background-color: yellow;
-}
