@@ -7,6 +7,10 @@
 	font-family: 'Bungee Shade';
 }
 
+.text {
+    margin-left: 2em;
+}
+
 img {
     display: block;
     margin-left: auto;
